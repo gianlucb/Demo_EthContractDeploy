@@ -1,4 +1,4 @@
-# C# ETHEREUM HELLOWORLD CONTRACT DEMO
+# Demo - C# HelloWorld Contract deployment on Ethereum
 
 Demo that deploys and use a simple HelloWorld contract to an *Ethereum* network.
 The contract has three methods:
